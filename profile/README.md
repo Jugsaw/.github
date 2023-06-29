@@ -1,10 +1,10 @@
 <div align="center">
   <p>
-  <img src="./logo.svg" width="320px">
+  <img src="https://raw.githubusercontent.com/Jugsaw/.github/master/profile/logo.svg" width="128px">
   </p>
   
-  <h1>DevOps & Serverless</h1>
-  <h1>Built for Scientific Computing</h1>
+  <p>DevOps & Serverless</p>
+  <p> Built for <b>Scientific Computing</b></p>
   
   <p>
     <a href="https://jugsaw.co"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/Jugsaw?style=social"></a>
